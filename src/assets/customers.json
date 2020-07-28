@@ -1,0 +1,437 @@
+{
+    "message": "Customers Details Loaded Successfully",
+    "customers": [
+        {
+            "customerId": 1,
+            "firstName": "Chandrasekhar",
+            "lastName": "Vemugadda",
+            "dateOfBirth": "2020-07-01",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 3,
+                    "email": "chandu.teja.0557@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 2,
+                    "line1": "H.no-34/185, Kummari Street",
+                    "line2": "H.no-34/120, One Town",
+                    "country": "Afghanistan",
+                    "state": "Andhra Pradesh",
+                    "city": "kurnool",
+                    "pincode": 518001
+                },
+                {
+                    "addressId": 50,
+                    "line1": "H.no - 34/127, VR Colony",
+                    "line2": "H.no-34/120, One Town",
+                    "country": "India",
+                    "state": "ANDHRA PRADESH",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 4,
+                    "mobileNumber": 6301092850
+                },
+                {
+                    "mobileId": 54,
+                    "mobileNumber": 8768767888
+                }
+            ],
+            "documents": {
+                "documentId": 5,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": "aadharcard.pdf",
+                "identityProofFileName": "voterId.pdf"
+            }
+        },
+        {
+            "customerId": 18,
+            "firstName": "Niranjan",
+            "lastName": "Vidyam",
+            "dateOfBirth": "1997-07-05",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 20,
+                    "email": "nira@gmail.com"
+                },
+                {
+                    "emailId": 51,
+                    "email": "niranjan.niru@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 19,
+                    "line1": "H.no - 34/127, VR Colony",
+                    "line2": "H.no - 34/127-A, VR Colony",
+                    "country": "India",
+                    "state": "ANDHRA PRADESH",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 21,
+                    "mobileNumber": 7676566565
+                },
+                {
+                    "mobileId": 52,
+                    "mobileNumber": 8678356768
+                },
+                {
+                    "mobileId": 63,
+                    "mobileNumber": 7657664564
+                }
+            ],
+            "documents": {
+                "documentId": 22,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": "Assignment_1-CORE_JAVA_QUESTIONS.pdf",
+                "identityProofFileName": "Assignment_1-CORE_JAVA_QUESTIONS.pdf"
+            }
+        },
+        {
+            "customerId": 27,
+            "firstName": "Sreekanth",
+            "lastName": "Vemugadda",
+            "dateOfBirth": "1995-10-26",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 29,
+                    "email": "sri@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 28,
+                    "line1": "H.no - 34/127, VR Colony",
+                    "line2": "H.no-34/120, One Town",
+                    "country": "India",
+                    "state": "ANDHRA PRADESH",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 30,
+                    "mobileNumber": 6301092876
+                }
+            ],
+            "documents": {
+                "documentId": 31,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": "aadharcard.pdf",
+                "identityProofFileName": "aadharcard.pdf"
+            }
+        },
+        {
+            "customerId": 40,
+            "firstName": "Yashoda",
+            "lastName": "Vidyam",
+            "dateOfBirth": "2020-02-20",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 42,
+                    "email": "yashu@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 41,
+                    "line1": "H.no - 34/127, VR Colony",
+                    "line2": "H.no-34/120, One Town",
+                    "country": "India",
+                    "state": "ANDHRA PRADESH",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 43,
+                    "mobileNumber": 7765656566
+                }
+            ],
+            "documents": {
+                "documentId": 44,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": "aadharcard.pdf",
+                "identityProofFileName": "aadharcard.pdf"
+            }
+        },
+        {
+            "customerId": 45,
+            "firstName": "Rajasekhar",
+            "lastName": "Vidyam",
+            "dateOfBirth": "2020-07-04",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 47,
+                    "email": "raju@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 46,
+                    "line1": "H.no - 34/127, VR Colony",
+                    "line2": "H.no-34/120, One Town",
+                    "country": "India",
+                    "state": "Andhra Pradesh",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 48,
+                    "mobileNumber": 6547578889
+                }
+            ],
+            "documents": {
+                "documentId": 49,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": "aadharcard.pdf",
+                "identityProofFileName": "aadharcard.pdf"
+            }
+        },
+        {
+            "customerId": 66,
+            "firstName": "Narendra",
+            "lastName": "Vidyam",
+            "dateOfBirth": "2020-07-05",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 68,
+                    "email": "narendra@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 67,
+                    "line1": "H.no - 34/127, VR Colony",
+                    "line2": "H.no-34/120, One Town",
+                    "country": "India",
+                    "state": "ANDHRA PRADESH",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 69,
+                    "mobileNumber": 7867564565
+                }
+            ],
+            "documents": {
+                "documentId": 70,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": "aadharcard.pdf",
+                "identityProofFileName": "aadharcard.pdf"
+            }
+        },
+        {
+            "customerId": 71,
+            "firstName": "Naresh",
+            "lastName": "Kumar",
+            "dateOfBirth": "1997-07-05",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 73,
+                    "email": "nareswara.m9010@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 72,
+                    "line1": "H.no - 34/127, VR Colony",
+                    "line2": "H.no-34/120, One Town",
+                    "country": "India",
+                    "state": "ANDHRA PRADESH",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 74,
+                    "mobileNumber": 8186890109
+                }
+            ],
+            "documents": {
+                "documentId": 75,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": "Assignment_1-CORE_JAVA_QUESTIONS.pdf",
+                "identityProofFileName": "aadharcard.pdf"
+            }
+        },
+        {
+            "customerId": 156,
+            "firstName": "Venu",
+            "lastName": "Vidyam",
+            "dateOfBirth": "2020-07-03",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 158,
+                    "email": "venu@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 157,
+                    "line1": "H.no - 34/127, VR Colony",
+                    "line2": "H.no-34/120, One Town",
+                    "country": "India",
+                    "state": "ANDHRA PRADESH",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 159,
+                    "mobileNumber": 7678567588
+                }
+            ],
+            "documents": {
+                "documentId": 160,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": "pancard.pdf",
+                "identityProofFileName": "UTIITSL_ePAN_G021646283_12092019_052937.pdf"
+            }
+        },
+        {
+            "customerId": 191,
+            "firstName": "Lokesh",
+            "lastName": "Konkala",
+            "dateOfBirth": "2020-07-08",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 193,
+                    "email": "lokesh@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 192,
+                    "line1": "H.no - 34/127, VR Colony",
+                    "line2": "H.no-34/120, One Town",
+                    "country": "India",
+                    "state": "ANDHRA PRADESH",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 194,
+                    "mobileNumber": 8768767666
+                }
+            ],
+            "documents": {
+                "documentId": 195,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": null,
+                "identityProofFileName": "aadharcard.pdf"
+            }
+        },
+        {
+            "customerId": 201,
+            "firstName": "Chandrasekhar",
+            "lastName": "Vidyam",
+            "dateOfBirth": "2020-07-03",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 203,
+                    "email": "chandra@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 202,
+                    "line1": "H.no - 34/127, VR Colony",
+                    "line2": "H.no-34/120, One Town",
+                    "country": "India",
+                    "state": "ANDHRA PRADESH",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 204,
+                    "mobileNumber": 8186890156
+                }
+            ],
+            "documents": {
+                "documentId": 205,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": null,
+                "identityProofFileName": null
+            }
+        },
+        {
+            "customerId": 206,
+            "firstName": "ravi",
+            "lastName": "teja",
+            "dateOfBirth": "2020-07-01",
+            "status": "active",
+            "emails": [
+                {
+                    "emailId": 208,
+                    "email": "raviteja@gmail.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressId": 207,
+                    "line1": "H.no-34/201,kummari street, one town, kurnool",
+                    "line2": "Axix bank",
+                    "country": "india",
+                    "state": "ANDHRA PRADESH",
+                    "city": "Kurnool",
+                    "pincode": 518001
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "mobileId": 209,
+                    "mobileNumber": 7776556464
+                }
+            ],
+            "documents": {
+                "documentId": 210,
+                "addressProof": null,
+                "identityProof": null,
+                "addressProofFileName": null,
+                "identityProofFileName": null
+            }
+        }
+    ]
+}

@@ -1,5 +1,14 @@
-.App {
+/* .App {
   text-align: center;
+} */
+.RouterNavLink {
+  display: inline-block;
+  width: 120px;
+  text-decoration: none;
+}
+
+.RouterNavLink:hover {
+  text-decoration: none;
 }
 
 .App-logo {
